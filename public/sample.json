@@ -1,0 +1,39 @@
+
+[
+    {
+        "status": 1,
+        "file_data": "4cf7f1ed-1ea3-4dd5-a0e0-3aad7defec95-1624523947717.svg",
+        "rti_id": "ctae-jicksaw-0c3ffe31",
+        "_id": "60d444ac56152128a4226d7d",
+        "college": "ctae",
+        "name": "jicksaw",
+        "gender": "male",
+        "address": "68",
+        "pincode": 123456,
+        "country": "india",
+        "state": "rj",
+        "phone": 9876543210,
+        "email": "jicksaw@gmail.com",
+        "text": "fsjdljgldsagsljlejewr",
+        "date": "2021-06-24T08:39:08.071Z",
+        "__v": 0
+    },
+    {
+        "status": 1,
+        "file_data": "6cb09fa1-826d-4a06-87fe-80cac4d9f67b-1624523978953.svg",
+        "rti_id": "ctae-jicksaw-7dd03923",
+        "_id": "60d444cb56152128a4226d7f",
+        "college": "ctae",
+        "name": "jicksaw killer",
+        "gender": "male",
+        "address": "68",
+        "pincode": 123456,
+        "country": "india",
+        "state": "rj",
+        "phone": 9876543210,
+        "email": "jicksawkiller@gmail.com",
+        "text": "fsjdljgldsagsljlejewr",
+        "date": "2021-06-24T08:39:39.020Z",
+        "__v": 0
+    }
+]
